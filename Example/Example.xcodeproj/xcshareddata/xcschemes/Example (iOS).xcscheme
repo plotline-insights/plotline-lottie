@@ -30,8 +30,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2E80409927A0725D006E74CB"
                BuildableName = "Lottie.framework"
-               BlueprintName = "Lottie-iOS"
-               ReferencedContainer = "container:../Lottie.xcodeproj">
+               BlueprintName = "PlotlineLottie-iOS"
+               ReferencedContainer = "container:../PlotlineLottie.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

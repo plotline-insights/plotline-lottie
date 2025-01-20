@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2EAF59B827A078E400E00531"
                BuildableName = "Lottie.framework"
-               BlueprintName = "Lottie-tvOS"
-               ReferencedContainer = "container:../Lottie.xcodeproj">
+               BlueprintName = "PlotlineLottie-tvOS"
+               ReferencedContainer = "container:../PlotlineLottie.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -30,8 +30,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2EAF59AC27A0787B00E00531"
                BuildableName = "Lottie.framework"
-               BlueprintName = "Lottie-macOS"
-               ReferencedContainer = "container:../Lottie.xcodeproj">
+               BlueprintName = "PlotlineLottie-macOS"
+               ReferencedContainer = "container:../PlotlineLottie.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -44,8 +44,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2E80409927A0725D006E74CB"
                BuildableName = "Lottie.framework"
-               BlueprintName = "Lottie-iOS"
-               ReferencedContainer = "container:../Lottie.xcodeproj">
+               BlueprintName = "PlotlineLottie-iOS"
+               ReferencedContainer = "container:../PlotlineLottie.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -71,9 +71,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2E8040AB27A072B8006E74CB"
-               BuildableName = "LottieTests.xctest"
-               BlueprintName = "LottieTests"
-               ReferencedContainer = "container:../Lottie.xcodeproj">
+               BuildableName = "PlotlineLottieTests.xctest"
+               BlueprintName = "PlotlineLottieTests"
+               ReferencedContainer = "container:../PlotlineLottie.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
