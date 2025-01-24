@@ -573,7 +573,7 @@ open class LottieAnimationView: LottieAnimationViewBase {
     }
   }
 
-  override public var intrinsicContentSize: CGSize {
+  override open var intrinsicContentSize: CGSize {
     if let animation = lottieAnimationLayer.animation {
       return animation.bounds.size
     }

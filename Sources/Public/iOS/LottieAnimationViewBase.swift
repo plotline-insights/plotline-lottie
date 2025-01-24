@@ -26,7 +26,7 @@ open class LottieAnimationViewBase: UIView {
     animationMovedToWindow()
   }
 
-  public override func layoutSubviews() {
+  open override func layoutSubviews() {
     super.layoutSubviews()
     layoutAnimation()
   }

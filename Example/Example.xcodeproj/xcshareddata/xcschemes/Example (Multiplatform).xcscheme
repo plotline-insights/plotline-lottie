@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2EAF59B827A078E400E00531"
-               BuildableName = "Lottie.framework"
+               BuildableName = "PlotlineLottie.framework"
                BlueprintName = "PlotlineLottie-tvOS"
                ReferencedContainer = "container:../PlotlineLottie.xcodeproj">
             </BuildableReference>
@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2EAF59AC27A0787B00E00531"
-               BuildableName = "Lottie.framework"
+               BuildableName = "PlotlineLottie.framework"
                BlueprintName = "PlotlineLottie-macOS"
                ReferencedContainer = "container:../PlotlineLottie.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2E80409927A0725D006E74CB"
-               BuildableName = "Lottie.framework"
+               BuildableName = "PlotlineLottie.framework"
                BlueprintName = "PlotlineLottie-iOS"
                ReferencedContainer = "container:../PlotlineLottie.xcodeproj">
             </BuildableReference>
